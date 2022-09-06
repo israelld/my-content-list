@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercises.iml" filepath="$PROJECT_DIR$/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicInterface_01/GraphicInterface_01.iml" filepath="$PROJECT_DIR$/GraphicInterface_01/GraphicInterface_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicInterface_02/GraphicInterface_02.iml" filepath="$PROJECT_DIR$/GraphicInterface_02/GraphicInterface_02.iml" />
+    </modules>
+  </component>
+</project>
